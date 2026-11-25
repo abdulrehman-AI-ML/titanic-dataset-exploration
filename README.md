@@ -1,5 +1,3 @@
-# titanic-dataset-exploration
-
 Titanic Data Analysis with Pandas
 A beginner-friendly exploration of the Titanic passenger dataset using pandas. This project answers 20 practice questions covering data basics, missing values, filtering, groupby analysis, and feature engineering.
 Dataset
